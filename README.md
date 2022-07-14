@@ -1,15 +1,15 @@
-👋 Hi, I'm Franco D'Angelo!
+👋 Hi, Josué Oblitas!
 ================================
 
-Full-Stack Developer & UX/UI Designer
+Full-Stack Developer
 -------------------------------------
 
-* 👀 I'm interested in working in technology to help with all my knowledge in development and UX design. I am currently looking for my first job in IT!  
+* 👀 I'm interested in working in technology to help with all my knowledge in development. 
 * 💞️ I’m looking to collaborate in social impact projects, in which I can really solve people's needs. The projects that interest me the most are those related to products, entertainment and sports.
 
-*   🌍  I'm based in Buenos Aires, Argentina.
+*   🌍  I'm based in Lima, Perú.
 *   🧠  I’m currently learning JavaScript, React, Redux, Node Js, Express & PostgreSQL. I also want to work with Typescript & React Native.
-*   ✉️  You can contact me at [ffrancodangelo@gmail.com](mailto:ffrancodangelo@gmail.com)
+*   ✉️  You can contact me at [josueoblitas15@gmail.com](mailto:josueoblitas15@gmail.com)
 
 ### Skills
 
