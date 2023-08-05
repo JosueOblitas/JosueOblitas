@@ -7,7 +7,7 @@ Soy un desarrollador PHP de Perú con experiencia en el framework Laravel y espe
 
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
 ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
-![Livewire](https://img.icons8.com/color/48/000000/livewire.png)
+![Livewire]([https://img.icons8.com/color/48/000000/livewire.png](https://res.cloudinary.com/dwipjtlpj/image/upload/v1691196301/portafolio/livewire_k7wcbm.png))
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
