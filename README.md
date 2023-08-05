@@ -1,25 +1,19 @@
-## 👋 Hola, soy Josué Oblitas!
+# ¡Hola! 👋 Soy Josue Oblitas
 
-### Desarrollador Full-Stack con enfoque en PHP y MySQL
+## Acerca de mí
+Soy un desarrollador PHP de Perú con experiencia en el framework Laravel y especializado en el uso de Livewire para crear aplicaciones web interactivas y dinámicas. Me apasiona el mundo del desarrollo web y siempre estoy en busca de nuevas oportunidades para mejorar mis habilidades y aprender tecnologías emergentes.
 
-💻 Desarrollador apasionado por la tecnología y la creación de soluciones web usando PHP y MySQL.
+## Proyectos destacados
+- [Proyecto 1](enlace_del_proyecto_1) - Breve descripción del proyecto.
+- [Proyecto 2](enlace_del_proyecto_2) - Breve descripción del proyecto.
+- [Proyecto 3](enlace_del_proyecto_3) - Breve descripción del proyecto.
 
-#### Tecnologías
+## Contacto
+Puedes contactarme a través de los siguientes medios:
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="24" height="24" alt="PHP" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="24" height="24" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" height="24" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" height="24" alt="CSS3" />
+- Sitio web: [josueoblitas.com](https://josueoblitas.com)
+- Correo electrónico: josueoblitas15@gmail.com
+- LinkedIn: [Josué Oblitas](https://www.linkedin.com/in/josue-oblitas-483616150/)
+- Twitter: [@TuCuentaDeTwitter](https://twitter.com/JosueeOblitas)
 
-#### Acerca de mí
-
-- 🌍 Basado en Lima, Perú.
-- 🧠 Continuamente aprendiendo y mejorando mis habilidades en PHP y MySQL para desarrollar aplicaciones web de alta calidad.
-- ✉️ Contáctame en [josueoblitas15@gmail.com](mailto:josueoblitas15@gmail.com).
-
-#### Redes Sociales
-
-[![Behance](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg)](https://www.behance.com/francodangelo)
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg)](https://www.github.com/franodangelo)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/franco-dangelo)
+¡No dudes en ponerte en contacto si tienes alguna pregunta o si estás interesado en colaborar en un proyecto! Estoy emocionado de seguir creciendo como desarrollador y contribuir al mundo del desarrollo web en Perú y más allá. ¡Gracias por visitar mi perfil de GitHub! 😄
