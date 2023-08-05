@@ -3,10 +3,14 @@
 ## Acerca de mí
 Soy un desarrollador PHP de Perú con experiencia en el framework Laravel y especializado en el uso de Livewire para crear aplicaciones web interactivas y dinámicas. Me apasiona el mundo del desarrollo web y siempre estoy en busca de nuevas oportunidades para mejorar mis habilidades y aprender tecnologías emergentes.
 
-## Proyectos destacados
-- [Proyecto 1](enlace_del_proyecto_1) - Breve descripción del proyecto.
-- [Proyecto 2](enlace_del_proyecto_2) - Breve descripción del proyecto.
-- [Proyecto 3](enlace_del_proyecto_3) - Breve descripción del proyecto.
+## Tecnologías
+
+![PHP](https://img.icons8.com/color/48/000000/php.png)
+![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
+![Livewire](https://img.icons8.com/color/48/000000/livewire.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ## Contacto
 Puedes contactarme a través de los siguientes medios:
